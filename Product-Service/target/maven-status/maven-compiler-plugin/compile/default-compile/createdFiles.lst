@@ -1,0 +1,10 @@
+org\soulaimane\productservice\controller\ProductController.class
+org\soulaimane\productservice\dto\ProductRequestDto.class
+org\soulaimane\productservice\dto\ProductResponseDto$ProductResponseDtoBuilder.class
+org\soulaimane\productservice\dto\ProductResponseDto.class
+org\soulaimane\productservice\dto\ProductRequestDto$ProductRequestDtoBuilder.class
+org\soulaimane\productservice\model\Product.class
+org\soulaimane\productservice\ProductServiceApplication.class
+org\soulaimane\productservice\repository\ProductRepository.class
+org\soulaimane\productservice\model\Product$ProductBuilder.class
+org\soulaimane\productservice\service\ProductService.class
